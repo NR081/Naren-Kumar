@@ -4,7 +4,7 @@ My GitHub Profile
 ## 🚀 About Me
 💻 Technical Content Writer | Frontend Developer | Tech Enthusiast
 📍 Location: Jaipur, India  
-🎓 Learning: JavaScript, MERN Stack, Cloud Computing  
+🎓 Learning: JavaScript, MERN Stack, AWS, Server Management, Linux System Administration
 
 ---
 
